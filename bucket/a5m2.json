@@ -21,7 +21,7 @@
         ]
     ],
     "checkver": {
-		"url": "https://www.vector.co.jp/soft/dl/winnt/business/se422726.html",
+        "url": "https://www.vector.co.jp/soft/dl/winnt/business/se422726.html",
         "regex": "<span\\s+class=\"version\">(\\d+\\.\\d+\\.\\d+)</span>"
     },
     "autoupdate": {
