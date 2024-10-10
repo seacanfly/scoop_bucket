@@ -22,7 +22,7 @@
     ],
     "checkver": {
 		"url": "https://www.vector.co.jp/soft/dl/winnt/business/se422726.html",
-        "regex": "Version\\s*([\\d.]+)"
+        "regex": "<span\\s+class=\"version\">(\\d+\\.\\d+\\.\\d+)</span>"
     },
     "autoupdate": {
         "architecture": {
