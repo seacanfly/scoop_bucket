@@ -1,7 +1,7 @@
 {
     "version": "2.19.0",
     "description": "A5:SQL Mk-2 is a SQL development environment & ER diagram tool.",
-    "homepage": "https://a5m2.mmatsubara.com/index.en.html",
+    "homepage": "https://a5m2.mmatsubara.com/",
     "license": "Freeware",
     "architecture": {
         "64bit": {
@@ -21,6 +21,7 @@
         ]
     ],
     "checkver": {
+		"url": "https://www.vector.co.jp/soft/dl/winnt/business/se422726.html",
         "regex": "Version\\s*([\\d.]+)"
     },
     "autoupdate": {
