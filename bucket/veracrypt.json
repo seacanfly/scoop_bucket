@@ -5,7 +5,6 @@
   "license": "Apache-2.0",
   "url": "https://launchpad.net/veracrypt/trunk/1.26.15/+download/VeraCrypt%20Portable%201.26.15.exe",
   "hash": "9678C92AEA7F557B7522F6DC942FA1D00E813DFDE4E7774C61E37C19E914A3A4",
-  "persist": "Portable",
   "shortcuts": [
     [
       "VeraCrypt-x64.exe",
