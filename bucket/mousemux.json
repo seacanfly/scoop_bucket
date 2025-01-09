@@ -2,6 +2,7 @@
     "version": "2.1.30",
     "description": "MouseMux - Multi-mouse software",
     "homepage": "https://www.mousemux.com/",
+	"license": "Free",
     "architecture": {
         "64bit": {
             "url": "https://www.mousemux.com/files/mousemux-v2-installer.exe",
@@ -11,6 +12,12 @@
     "installer": {
         "file": "mousemux-v2-installer.exe"
     },
+	    "shortcuts": [
+        [
+            "MouseMux.exe",
+            "MouseMux"
+        ]
+    ],
     "checkver": {
         "url": "https://www.mousemux.com/pages/releases/",
         "regex": "([\\d.]+) - V2 series - Released on"
