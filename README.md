@@ -1,11 +1,20 @@
-seacanfly'scoop bucket
+seacanfly's scoop bucket
 ---
-1. Install Scoop.
+
+1. Install Scoop (A command-line installer for Windows).
+> [!NOTE]
+> Official site(Quickstart):
+> https://scoop.sh
+>
+> Advanced Installation guide:
+> https://github.com/ScoopInstaller/Install#readme
+
 2. Add this bucket:
-``` code
-scoop bucket add scoop_bucket https://github.com/seacanfly/scoop_bucket
-```
+    ``` bash
+    scoop bucket add scoop_bucket https://github.com/seacanfly/scoop_bucket
+    ```
+
 3. confirm the bucket was added:
-``` code
-scoop bucket list
-```
+    ``` bash
+    scoop bucket list
+    ```
