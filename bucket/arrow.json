@@ -11,6 +11,12 @@
         }
     },
     "bin": "Arrow.exe",
+    "shortcuts": [
+        [
+            "Arrow.exe",
+            "Arrow"
+        ]
+    ],
     "checkver": {
         "github": "https://github.com/mhgolkar/Arrow"
     },
