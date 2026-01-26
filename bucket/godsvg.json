@@ -17,8 +17,7 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/MewPurPur/GodSVG",
-        "include_prereleases": true
+        "github": "https://github.com/MewPurPur/GodSVG"
     },
     "autoupdate": {
         "architecture": {
