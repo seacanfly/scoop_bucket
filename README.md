@@ -11,7 +11,7 @@ seacanfly's scoop bucket
 
 2. Add this bucket:
     ``` bash
-    scoop bucket add scoop_bucket https://github.com/seacanfly/scoop_bucket
+    scoop bucket add seacanfly https://github.com/seacanfly/scoop_bucket
     ```
 
 3. confirm the bucket was added:
