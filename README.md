@@ -6,8 +6,11 @@ seacanfly's scoop bucket
 > Official site(Quickstart):
 > https://scoop.sh
 >
-> Advanced Installation guide:
+> Advanced Installation guide(GitHub):
 > https://github.com/ScoopInstaller/Install#readme
+>
+> Scoop introduction(GitHub):
+> https://github.com/ScoopInstaller/Scoop#readme
 
 2. Add this bucket:
     ``` bash
